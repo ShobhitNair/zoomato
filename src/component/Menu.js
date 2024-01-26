@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import useMenuList from "../utils/useMenuList";
 import { useDarkMode } from "./DarkModeContext";
-import ItemList from "./itemList";
+import ItemList from "./ItemList";
 import { useEffect, useState } from "react";
 
 const Menu = () => {
