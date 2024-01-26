@@ -1,0 +1,59 @@
+.nav {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.nav-items {
+  padding: 20px;
+}
+
+.nav-img {
+  width: 100px;
+}
+
+.nav-item {
+  display: flex;
+}
+
+.nav-button {
+  padding: 6px;
+  font-size: large;
+  list-style: none;
+}
+
+.restraunt-main {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.restraunt-cards {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.restraunt-card {
+  margin: 10px;
+  padding: 20px;
+}
+
+.restraunt-card :hover {
+  cursor: pointer;
+  border: 1px solid #000;
+}
+
+.res-img {
+  aspect-ratio: 3 / 2;
+  width: 180px;
+}
+
+.restraunt-card h1 {
+  width: 100px;
+  font-size: small;
+}
+
+.search {
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */

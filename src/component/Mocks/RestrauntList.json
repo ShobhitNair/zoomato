@@ -1,0 +1,1406 @@
+[
+    {
+        "info": {
+            "id": "187023",
+            "name": "Gopal Sweets",
+            "cloudinaryImageId": "gx1p4jbydovtullkhaec",
+            "locality": "Nikasa Road",
+            "areaName": "Vidisha Locality",
+            "costForTwo": "₹299 for two",
+            "cuisines": [
+                "Sweets",
+                "Bakery",
+                "Beverages",
+                "Desserts"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "89058",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 0.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "18 mins",
+                "lastMileTravelString": "0.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 22:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/gopal-sweets-nikasa-road-vidisha-locality-vidisha-187023",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "317832",
+            "name": "Avyukt Restaurant",
+            "cloudinaryImageId": "ywdd1s1biltdp1rjm9xt",
+            "locality": "Sanchi Road",
+            "areaName": "Baripura",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "North Indian",
+                "South Indian",
+                "Chinese"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "38092",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 1.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26 mins",
+                "lastMileTravelString": "1.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/avyukt-restaurant-sanchi-road-baripura-vidisha-317832",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "250453",
+            "name": "Sky High Rooftop Restaurant & Cafe",
+            "cloudinaryImageId": "fpfzcp7gbsiybjd877eu",
+            "locality": "Sherpura",
+            "areaName": "Railway station road",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Italian",
+                "Beverages",
+                "Desserts",
+                "Snacks"
+            ],
+            "avgRating": 3.8,
+            "veg": true,
+            "parentId": "189317",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 2.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30 mins",
+                "lastMileTravelString": "2.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/sky-high-rooftop-restaurant-and-cafe-sherpura-railway-station-road-vidisha-250453",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187011",
+            "name": "Jain Bhojnalaya",
+            "cloudinaryImageId": "ygxmb6koqzeycpwncwbg",
+            "locality": "Mahadev Ganj",
+            "areaName": "Station Road",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "North Indian",
+                "Desserts",
+                "Beverages",
+                "Salads"
+            ],
+            "avgRating": 3.7,
+            "veg": true,
+            "parentId": "108820",
+            "avgRatingString": "3.7",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 21,
+                "serviceability": "SERVICEABLE",
+                "slaString": "21 mins",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/jain-bhojnalaya-mahadev-ganj-station-road-vidisha-187011",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "381418",
+            "name": "Burger Land",
+            "cloudinaryImageId": "jajuzckffux0qrbuzehz",
+            "locality": "Vivekanand Square ",
+            "areaName": "Near Eidgah Chouraha Vidisha",
+            "costForTwo": "₹249 for two",
+            "cuisines": [
+                "Burgers",
+                "Pizzas",
+                "Italian",
+                "Beverages",
+                "Desserts"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "parentId": "51362",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 33,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "33 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/burger-land-vivekanand-square-near-eidgah-chouraha-vidisha-vidisha-381418",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "768520",
+            "name": "Sagar Gaire",
+            "cloudinaryImageId": "3269e23f6d05bbc8ec007c9d330c70d6",
+            "locality": "Ward No 11",
+            "areaName": "Baripura",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Chinese",
+                "Indian",
+                "Snacks",
+                "North Indian",
+                "Beverages",
+                "Pastas",
+                "Pizzas",
+                "Fast Food",
+                "South Indian"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "7049",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "50+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 1.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26 mins",
+                "lastMileTravelString": "1.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 22:45:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "isNewlyOnboarded": true,
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/sagar-gaire-ward-no-11-baripura-vidisha-768520",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "186993",
+            "name": "Pizza Paradise",
+            "cloudinaryImageId": "ce422ab76d80bd6c1ed88c7d0e27acf2",
+            "locality": "Eidgah Square",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹299 for two",
+            "cuisines": [
+                "Pizzas",
+                "Burgers",
+                "Pastas",
+                "Italian",
+                "Beverages",
+                "Snacks"
+            ],
+            "avgRating": 3.6,
+            "veg": true,
+            "parentId": "8997",
+            "avgRatingString": "3.6",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 22:30:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/pizza-paradise-eidgah-square-baripura-vidisha-vidisha-186993",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "658152",
+            "name": "Mezbaan Restaurant",
+            "cloudinaryImageId": "47bab737637bdcde9bbcde4be375b629",
+            "locality": "Jhoolaphir Khai Road",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Snacks",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 4.4,
+            "parentId": "15547",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 1.1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "31 mins",
+                "lastMileTravelString": "1.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/mezbaan-restaurant-jhoolaphir-khai-road-baripura-vidisha-vidisha-658152",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "665909",
+            "name": "Domino's Pizza",
+            "cloudinaryImageId": "fe8720b3f80740e31cb2a81e6db5e230",
+            "locality": "Kunddan Complex",
+            "areaName": "Vidisha",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Pastas",
+                "Desserts"
+            ],
+            "avgRating": 4.3,
+            "parentId": "2456",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "50+",
+            "sla": {
+                "deliveryTime": 25,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25 mins",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/dominos-pizza-kunddan-complex-vidisha-vidisha-665909",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "432216",
+            "name": "Sassy spoon",
+            "cloudinaryImageId": "rp6fqz0nmzdy3z1irt6u",
+            "locality": "Eidgah Chouraha",
+            "areaName": "Near Eidgah Chouraha Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Italian",
+                "Beverages",
+                "Desserts",
+                "Snacks"
+            ],
+            "avgRating": 3.7,
+            "veg": true,
+            "parentId": "178612",
+            "avgRatingString": "3.7",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 32,
+                "lastMileTravel": 2.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "32 mins",
+                "lastMileTravelString": "2.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/sassy-spoon-eidgah-chouraha-near-eidgah-chouraha-vidisha-vidisha-432216",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187017",
+            "name": "Hotel Lazeez",
+            "cloudinaryImageId": "p219avat5dxipb5ncmkh",
+            "locality": "Ahmadpur Choraha",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Mughlai",
+                "Snacks",
+                "Beverages"
+            ],
+            "avgRating": 3.9,
+            "parentId": "7160",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 1.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25 mins",
+                "lastMileTravelString": "1.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/hotel-lazeez-ahmadpur-choraha-baripura-vidisha-vidisha-187017",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "603053",
+            "name": "Divine Food Lounge And Restaurant",
+            "cloudinaryImageId": "qoz1ulwoos4tyydd9p6r",
+            "locality": "Swami Vivekanand Chouraha",
+            "areaName": "Near Eidgah Chouraha Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "North Indian",
+                "Beverages",
+                "Desserts"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "parentId": "359582",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 29,
+                "lastMileTravel": 2.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "29 mins",
+                "lastMileTravelString": "2.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/divine-food-lounge-and-restaurant-swami-vivekanand-chouraha-near-eidgah-chouraha-vidisha-vidisha-603053",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "369484",
+            "name": "Pizza Have Inn",
+            "cloudinaryImageId": "jp8pv8p6qgyy6jrczblm",
+            "locality": "Durganagar Road",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "Pizzas",
+                "Burgers",
+                "Pastas",
+                "Italian",
+                "Beverages",
+                "Snacks"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "158618",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30 mins",
+                "lastMileTravelString": "2.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/pizza-have-inn-durganagar-road-baripura-vidisha-vidisha-369484",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "523007",
+            "name": "Royal Bites cafe and restaurants",
+            "cloudinaryImageId": "qywdrlraytm8ynfewxsn",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹299 for two",
+            "cuisines": [
+                "North Indian",
+                "Biryani",
+                "Snacks",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 4.2,
+            "parentId": "312076",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 34,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "34 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/royal-bites-cafe-and-restaurants-baripura-vidisha-vidisha-523007",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187030",
+            "name": "Delicious Delight",
+            "cloudinaryImageId": "jxydcytrxwv3he0dzm2p",
+            "locality": "Durganagar",
+            "areaName": "Vidisha Locality",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "South Indian",
+                "Italian",
+                "Beverages",
+                "Continental"
+            ],
+            "avgRating": 3.8,
+            "veg": true,
+            "parentId": "70351",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 38,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "38 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/delicious-delight-durganagar-vidisha-locality-vidisha-187030",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "671973",
+            "name": "Naveen's Bapu Ki Kutia",
+            "cloudinaryImageId": "f34657e4f398eec0e714971b58f8be69",
+            "locality": "Sanchi Road",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹299 for two",
+            "cuisines": [
+                "Thalis",
+                "North Indian",
+                "South Indian",
+                "Biryani",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 3.7,
+            "veg": true,
+            "parentId": "7246",
+            "avgRatingString": "3.7",
+            "totalRatingsString": "20+",
+            "sla": {
+                "deliveryTime": 41,
+                "lastMileTravel": 4.1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "41 mins",
+                "lastMileTravelString": "4.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/naveens-bapu-ki-kutia-sanchi-road-baripura-vidisha-vidisha-671973",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187014",
+            "name": "HOT Restaurant ",
+            "cloudinaryImageId": "b0ldpglpe8snuuzve2dq",
+            "locality": "Swarnkar Colony",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Italian",
+                "Beverages",
+                "Desserts",
+                "Snacks"
+            ],
+            "avgRating": 3.6,
+            "veg": true,
+            "parentId": "97493",
+            "avgRatingString": "3.6",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 24,
+                "lastMileTravel": 0.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "24 mins",
+                "lastMileTravelString": "0.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 22:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/hot-restaurant-swarnkar-colony-baripura-vidisha-vidisha-187014",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187020",
+            "name": "Haweli Cafe & Restaurant",
+            "cloudinaryImageId": "jzit85tgpygww2hl6a3p",
+            "locality": "Tilakhedi Square",
+            "areaName": "Highway",
+            "costForTwo": "₹249 for two",
+            "cuisines": [
+                "Thalis",
+                "North Indian",
+                "Chinese",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 3.9,
+            "veg": true,
+            "parentId": "94622",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 41,
+                "lastMileTravel": 4.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "41 mins",
+                "lastMileTravelString": "4.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 22:55:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/haweli-cafe-and-restaurant-tilakhedi-square-highway-vidisha-187020",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187036",
+            "name": "Ashirwad Bhojnalya",
+            "cloudinaryImageId": "vztklf37frxp80nbbsif",
+            "locality": "Madhav Ganj Choraha",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹199 for two",
+            "cuisines": [
+                "North Indian",
+                "Salads",
+                "Beverages"
+            ],
+            "avgRating": 3.8,
+            "veg": true,
+            "parentId": "36820",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 22,
+                "serviceability": "SERVICEABLE",
+                "slaString": "22 mins",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 23:20:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/ashirwad-bhojnalya-madhav-ganj-choraha-baripura-vidisha-vidisha-187036",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "480272",
+            "name": "The Mug Bug",
+            "cloudinaryImageId": "ieoxizqbxjg322vswgre",
+            "locality": "Kiri Mohalla",
+            "areaName": "Baripura Vidisha",
+            "costForTwo": "₹249 for two",
+            "cuisines": [
+                "Italian",
+                "Chinese",
+                "Beverages",
+                "Desserts",
+                "Snacks"
+            ],
+            "avgRating": 3.6,
+            "veg": true,
+            "parentId": "288576",
+            "avgRatingString": "3.6",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 0.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25 mins",
+                "lastMileTravelString": "0.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-23 22:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/the-mug-bug-kiri-mohalla-baripura-vidisha-vidisha-480272",
+            "type": "WEBLINK"
+        }
+    }
+]
